@@ -1,0 +1,12 @@
+[
+  { "text": "Don't go yet!", "option_1": "Stay and chill", "option_2": "Stay and laugh" },
+  { "text": "Wait! There's more...", "option_1": "Stay and learn", "option_2": "Stay and play" },
+  { "text": "Before you go...", "option_1": "Stay and smile", "option_2": "Stay and sing" },
+  { "text": "Hold on a second!", "option_1": "Stay and chat", "option_2": "Stay and game" },
+  { "text": "Hang tight!", "option_1": "Stay and snack", "option_2": "Stay and watch" },
+  { "text": "One more thing...", "option_1": "Stay and joke", "option_2": "Stay and dance" },
+  { "text": "Don't leave me...", "option_1": "Stay and relax", "option_2": "Stay and vibe" },
+  { "text": "Wait! Wait!", "option_1": "Stay and explore", "option_2": "Stay and create" },
+  { "text": "Not so fast!", "option_1": "Stay and read", "option_2": "Stay and meditate" },
+  { "text": "Hold up!", "option_1": "Stay and learn", "option_2": "Stay and laugh" }
+]
