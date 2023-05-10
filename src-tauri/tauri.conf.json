@@ -35,8 +35,8 @@
         "fullscreen": false,
         "resizable": false,
         "title": "dont-close-me",
-        "width": 300,
-        "height": 300
+        "width": 350,
+        "height": 350
       }
     ]
   }

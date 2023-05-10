@@ -52,9 +52,9 @@ fn nextPrank(window: tauri::Window) {
         .unwrap();
 
     // if we are not at the end of the prank
-    // if unsafe { INDEX } >= json.as_array().unwrap().len() {
-    //     return window.close();
-    // }
+    if unsafe { INDEX } >= json.as_array().unwrap().len() {
+        return window.close().unwrap();
+    }
 
     return;
 }

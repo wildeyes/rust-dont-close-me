@@ -21,9 +21,8 @@ window.addEventListener("DOMContentLoaded", () => {
   window.opt2El = document.querySelector("#opt2-button");
   window.h1Title = document.querySelector("#title");
 
-  document
-    .querySelectorAll("button")
-    .addEventListener("click", () => nextPrank());
+  [...document
+    .querySelectorAll("button")].forEach((el) => el.addEventListener("click", () => nextPrank()));
 
   main();
 });
